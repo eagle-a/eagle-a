@@ -7,5 +7,6 @@
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: 2121612901@qq.com or www.zhanming.ltd
 
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=eagle-a" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=eagle-a&theme=xcode" /> </div>
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
